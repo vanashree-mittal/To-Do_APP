@@ -29,6 +29,7 @@ Clearing Fields:
 
 Click the "Clear" button to reset input fields.
 
-Notes
+Notes:
+
 The app has a maximum limit of 4 tasks (MAX_TASKS = 4).
 Ensure all required fields are filled before adding a task.
